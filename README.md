@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi I am Prithwish Mukherjee, a 13 year old programmer with big dreams
+______________________________________________________
+I love coding and also studying about ethical hacking 
+______________________________________________________
+- 👋 Hi, I’m @mrop007
+- 👀 I’m interested in Python, Django, JS, Html, CSS, Hacking and Java
+- 🌱 I’m currently learning Django, Hacking
+- 📫 How to contact me https://pmdev.in
+- 📫 and my email is mukherjee.prithwish4816367@gmail.com
 
 <!--
 **Hackermanprith/Hackermanprith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
