@@ -1,24 +1,134 @@
-Hi I am Prithwish Mukherjee, a 13 year old programmer with big dreams
-______________________________________________________
-I love coding and also studying about ethical hacking 
-______________________________________________________
-- 👋 Hi, I’m @mrop007
-- 👀 I’m interested in Python, Django, JS, Html, CSS, Hacking and Java
-- 🌱 I’m currently learning Django, Hacking
-- 📫 How to contact me https://pmdev.in
-- 📫 and my email is mukherjee.prithwish4816367@gmail.com
 
-<!--
-**Hackermanprith/Hackermanprith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="#"><img width="100%" height="auto" src="https://github.com/Hackermanprith/Hackermanprith/blob/main/result.gif" /></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<b>*About Me*:</b>👨🏻‍💻&nbsp; 
+
+  🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Durgapur.\
+  🌱 &nbsp;I'm on track for learning more about ```Data Structures and Algorithm``` • ```Software Development``` • ```Systems Design```.\
+  💡 &nbsp;Some technologies I enjoy working with include ```Python3``` • ```MySQL``` • ```Git``` • ```HTML5``` • ```CSS``` • ```C``` • ```Linux```.\
+  ✉️ &nbsp;Get in touch with me via email at *samirpaulb@gmail.com* or connect on [LinkedIn](https://www.linkedin.com/in/SamirPaul). 
+
+
+
+<b>*Find Me Around The Web*:</b> <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/web.gif" height="17"> </a>
+
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/twitter.svg" />][twitter]
+[<img align="left" alt="LeetCode" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/leetcode.png" />][leetcode]
+[<img align="left" alt="CodeChef" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/codechef.png" />][codechef]
+[<img align="left" alt="Hackerrank" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/hackerrank.png" />][hackerrank]
+[<img align="left" alt="GeeksforGeeks" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/gfg.png" />][geeksforgeeks]
+
+<br />
+
+
+
+<a href="#"><img width="100%" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/neon-line.gif" /></a>
+
+
+
+
+<b>*GitHub Stats*:</b>&#x1f4c8; 
+  
+  <b> </b> 
+  
+  
+<p align="center">
+<table>
+<tr>
+  
+  <td>
+  <a href="https://github.com/SamirPaul1/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamirPaul1&theme=radical&count_private=true&include_all_commits=true" height="180rem" />
+  </a>
+  </td>
+    
+  <td> 
+  <a href="https://github.com/SamirPaul1/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirPaul1&layout=compact&theme=radical" height="180rem"/>
+  </a>
+  </td>
+    
+</tr>
+</table>
+</p>
+  
+  
+<b>*Languages And Tools*:</b>🛠 &nbsp;
+  
+<b> </b>  
+
+<p align="center">
+  
+[<code  >
+<img alt="Python" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png">
+</code>](#)
+[<code >
+<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/mysql.png">
+</code>](#)
+[<code >
+<img alt="Java" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/java.png">
+</code>](#)
+[<code >
+<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/html.png">
+</code>](#)
+[<code >
+<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/css.png">
+</code>](#)
+[<code >
+<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/javascript.png" />
+</code>](#)
+[<code >
+<img alt="C" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/c.png" />
+</code>](#)
+[<code >
+<img alt="C++" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/cpp.png" />
+</code>](#)
+[<code >
+<img alt="Git" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/git.png">
+</code>](#)
+[<code >
+<img alt="Django" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/django.png">
+</code>](#)
+[<code >
+<img alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/react.png">
+</code>](#)
+[<code >
+<img alt="Powershell" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/powershell.png">
+</code>](#)
+[<code >
+<img alt="Sublime" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/sublime.png">
+</code>](#)
+[<code >
+<img alt="VS-Code" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/vscode.png" />
+</code>](#)
+[<code >
+<img alt="Intellij" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/intelejidea.png" />
+</code>](#)
+[<code >
+<img alt="Pycharm" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/pycharm.png" />
+</code>](#)
+[<code >
+<img alt="Windows" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/windows.png">
+</code>](#)
+[<code >
+<img alt="MacOS" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/macos.png">
+</code>](#)
+[<code>
+<img alt="Linux" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/linux.png">
+</code>](#)
+
+</p>  
+
+  
+<p align=center>                           
+  <a href="https://github.com/SamirPaul1"><img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors"></a>     
+</p>
+  
+  
+  
+
+
