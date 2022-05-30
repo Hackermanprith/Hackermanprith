@@ -38,8 +38,8 @@
   </td>
     
   <td> 
-  <a href="https://github.com/SamirPaul1/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirPaul1&layout=compact&theme=radical" height="180rem"/>
+  <a href="https://github.com/Hackermanprith/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackermanprith&layout=compact&theme=radical" height="180rem"/>
   </a>
   </td>
     
@@ -63,29 +63,13 @@
 [<code >
 <img alt="Java" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/java.png">
 </code>](#)
-[<code >
-<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/html.png">
-</code>](#)
-[<code >
-<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/css.png">
-</code>](#)
-[<code >
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/javascript.png" />
-</code>](#)
-[<code >
-<img alt="C" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/c.png" />
-</code>](#)
-[<code >
-<img alt="C++" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/cpp.png" />
+<img alt="C3" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/cpp.png" />
 </code>](#)
 [<code >
 <img alt="Git" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/git.png">
 </code>](#)
 [<code >
 <img alt="Django" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/django.png">
-</code>](#)
-[<code >
-<img alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/react.png">
 </code>](#)
 [<code >
 <img alt="Powershell" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/powershell.png">
@@ -116,7 +100,7 @@
 
   
 <p align=center>                           
-  <a href="https://github.com/SamirPaul1"><img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors"></a>     
+  <a href="https://github.com/Hackermanprith"><img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors"></a>     
 </p>
   
   
