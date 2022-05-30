@@ -5,24 +5,15 @@
 
 <b>*About Me*:</b>👨🏻‍💻&nbsp; 
 
-  🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Durgapur.\
+  🎓 &nbsp;I'm currently studying at Methodist School.\
   🌱 &nbsp;I'm on track for learning more about ```Data Structures and Algorithm``` • ```Software Development``` • ```Systems Design```.\
-  💡 &nbsp;Some technologies I enjoy working with include ```Python3``` • ```MySQL``` • ```Git``` • ```HTML5``` • ```CSS``` • ```C``` • ```Linux```.\
-  ✉️ &nbsp;Get in touch with me via email at *samirpaulb@gmail.com* or connect on [LinkedIn](https://www.linkedin.com/in/SamirPaul). 
+  💡 &nbsp;Some technologies I enjoy working with include ```Python3``` • ```C#``` • ```JAVA``` • ```MYSQL``` • ```PENTESTING`` • ```Linux```.\
+  ✉️ &nbsp;Get in touch with me via email at *mukherjee.prithwish5816367@gmail.com*. 
 
 
 
 <b>*Find Me Around The Web*:</b> <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/web.gif" height="17"> </a>
 
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/twitter.svg" />][twitter]
-[<img align="left" alt="LeetCode" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/leetcode.png" />][leetcode]
-[<img align="left" alt="CodeChef" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/codechef.png" />][codechef]
-[<img align="left" alt="Hackerrank" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/hackerrank.png" />][hackerrank]
-[<img align="left" alt="GeeksforGeeks" height="22px" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/gfg.png" />][geeksforgeeks]
-
-<br />
 
 
 
