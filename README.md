@@ -12,10 +12,6 @@
 
 
 
-<b>*Find Me Around The Web*:</b> <a href="https://samirpaul1.github.io/link/"> <img src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/web.gif" height="17"> </a>
-
-
-
 
 <a href="#"><img width="100%" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/neon-line.gif" /></a>
 
@@ -32,8 +28,8 @@
 <tr>
   
   <td>
-  <a href="https://github.com/SamirPaul1/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamirPaul1&theme=radical&count_private=true&include_all_commits=true" height="180rem" />
+  <a href="https://github.com/Hackermanprith/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hackermanprith&theme=radical&count_private=true&include_all_commits=true" height="180rem" />
   </a>
   </td>
     
