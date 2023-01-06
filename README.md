@@ -1,7 +1,4 @@
-
-<a href="#"><img width="100%" height="auto" src="https://github.com/Hackermanprith/Hackermanprith/blob/main/result.gif" /></a>
-
-
+<b>#Hi There*</b>👨🏻‍&nbsp; 
 
 <b>*About Me*:</b>👨🏻‍💻&nbsp; 
 
