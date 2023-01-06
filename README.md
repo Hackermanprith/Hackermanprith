@@ -1,5 +1,5 @@
-<b>#Hi There*</b>👨🏻‍&nbsp; 
-
+<b>Hi There*</b>👨🏻‍&nbsp; 
+<a href="#"><img width="100%" src="https://raw.githubusercontent.com/SamirPaul1/SamirPaul1/main/assets/neon-line.gif" /></a>
 <b>*About Me*:</b>👨🏻‍💻&nbsp; 
 
   🎓 &nbsp;I'm currently studying at Methodist School.\
