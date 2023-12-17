@@ -3,7 +3,7 @@
 <b>*About Me*:</b>👨🏻‍💻&nbsp; 
 
   🎓 &nbsp;I'm currently studying at Methodist School Dankuni.
-  🌱 &nbsp;I'm on track for learning more about ```Data Structures and Algorithm``` • ```Software Development``` • ```Systems Design```.\
+  🌱 &nbsp;I'm on track for learning more about ```Compiler Design``` • ```C++/C``` • ```Networking```.```Systems Design```.\
   💡 &nbsp;Some technologies I enjoy working with include ```Python3``` • ```C#``` • ```JAVA``` • ```MYSQL/Firebase``` • ```PENTESTING``` • ```Linux```.\
   ✉️ &nbsp;Get in touch with me via email at *prithwish.mukherjee@outlook.com*
 
